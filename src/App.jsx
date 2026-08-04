@@ -24,6 +24,9 @@ const projectList = [
 
 function App() {
   const contactEmail = import.meta.env.VITE_CONTACT_EMAIL || 'amanuelgebreegziabhare@gmail.com';
+  const emailJsServiceId = import.meta.env.VITE_EMAILJS_SERVICE_ID || '';
+  const emailJsTemplateId = import.meta.env.VITE_EMAILJS_TEMPLATE_ID || '';
+  const emailJsPublicKey = import.meta.env.VITE_EMAILJS_PUBLIC_KEY || '';
   const [status, setStatus] = useState('idle');
 
   const [formState, setFormState] = useState({
@@ -45,25 +48,51 @@ function App() {
     setStatus('loading');
 
     try {
-      const response = await fetch('https://formsubmit.co/ajax/' + contactEmail, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          Accept: 'application/json',
-        },
-        body: JSON.stringify({
-          name: formState.fullName,
-          company: formState.company,
-          email: formState.email,
-          phone: formState.phone,
-          message: formState.projectDetails,
-          timeline: formState.timeline,
-          _subject: `Portfolio inquiry from ${formState.fullName || 'a visitor'}`,
-        }),
-      });
+      let response;
+
+      if (emailJsServiceId && emailJsTemplateId && emailJsPublicKey) {
+        response = await fetch(`https://api.emailjs.com/api/v1/${emailJsPublicKey}/email/send`, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            service_id: emailJsServiceId,
+            template_id: emailJsTemplateId,
+            user_id: emailJsPublicKey,
+            template_params: {
+              from_name: formState.fullName,
+              from_email: formState.email,
+              company: formState.company,
+              phone: formState.phone,
+              message: formState.projectDetails,
+              timeline: formState.timeline,
+              to_email: contactEmail,
+            },
+          }),
+        });
+      } else {
+        response = await fetch('https://formsubmit.co/ajax/' + contactEmail, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            Accept: 'application/json',
+          },
+          body: JSON.stringify({
+            name: formState.fullName,
+            company: formState.company,
+            email: formState.email,
+            phone: formState.phone,
+            message: formState.projectDetails,
+            timeline: formState.timeline,
+            _subject: `Portfolio inquiry from ${formState.fullName || 'a visitor'}`,
+          }),
+        });
+      }
 
       if (!response.ok) {
-        throw new Error('Submission failed');
+        const errorText = await response.text();
+        throw new Error(errorText || 'Submission failed');
       }
 
       setStatus('success');
