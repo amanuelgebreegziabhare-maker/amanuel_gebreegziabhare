@@ -126,10 +126,48 @@ function App() {
 
         <section id="contact">
           <h2>Contact</h2>
-          <p>If you'd like to work together, let's connect.</p>
-          <a className="secondary-btn" href="mailto:amanuelgebreegziabhare@gmail.com">
-            Email me
-          </a>
+          <p>If you'd like to work together, please send your details using the
+            form below.</p>
+          <form className="contact-form" onSubmit={(event) => {
+            event.preventDefault();
+            alert('Thank you! Your message has been submitted. I will reach out soon.');
+          }}>
+            <div className="form-row">
+              <div className="form-field">
+                <label htmlFor="fullName">Full name</label>
+                <input id="fullName" name="fullName" type="text" placeholder="Your full name" required />
+              </div>
+              <div className="form-field">
+                <label htmlFor="company">Company</label>
+                <input id="company" name="company" type="text" placeholder="Company or organization" required />
+              </div>
+            </div>
+
+            <div className="form-row">
+              <div className="form-field">
+                <label htmlFor="email">Email address</label>
+                <input id="email" name="email" type="email" placeholder="you@example.com" required />
+              </div>
+              <div className="form-field">
+                <label htmlFor="phone">Phone number</label>
+                <input id="phone" name="phone" type="tel" placeholder="Optional" />
+              </div>
+            </div>
+
+            <div className="form-field">
+              <label htmlFor="projectDetails">Project details</label>
+              <textarea id="projectDetails" name="projectDetails" rows="5" placeholder="Describe your project or data needs" required />
+            </div>
+
+            <div className="form-field">
+              <label htmlFor="timeline">Desired timeline</label>
+              <input id="timeline" name="timeline" type="text" placeholder="e.g. 4 weeks" />
+            </div>
+
+            <button type="submit" className="primary-btn submit-btn">
+              Send message
+            </button>
+          </form>
         </section>
       </main>
 
