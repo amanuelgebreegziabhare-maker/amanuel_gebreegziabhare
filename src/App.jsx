@@ -23,7 +23,8 @@ const projectList = [
 ];
 
 function App() {
-  const contactEmail = import.meta.env.VITE_CONTACT_EMAIL || 'your-email@example.com';
+  const contactEmail = import.meta.env.VITE_CONTACT_EMAIL || 'amanuelgebreegziabhare@gmail.com';
+  const [status, setStatus] = useState('idle');
 
   const [formState, setFormState] = useState({
     fullName: '',
@@ -39,26 +40,45 @@ function App() {
     setFormState((prev) => ({ ...prev, [name]: value }));
   };
 
-  const handleSubmit = (event) => {
+  const handleSubmit = async (event) => {
     event.preventDefault();
+    setStatus('loading');
 
-    const subject = encodeURIComponent(
-      `Portfolio inquiry from ${formState.fullName || 'a visitor'}`
-    );
-    const body = encodeURIComponent(
-      `Name: ${formState.fullName}\nCompany: ${formState.company}\nEmail: ${formState.email}\nPhone: ${formState.phone}\n\nProject details:\n${formState.projectDetails}\n\nTimeline: ${formState.timeline}`
-    );
+    try {
+      const response = await fetch('https://formsubmit.co/ajax/' + contactEmail, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Accept: 'application/json',
+        },
+        body: JSON.stringify({
+          name: formState.fullName,
+          company: formState.company,
+          email: formState.email,
+          phone: formState.phone,
+          message: formState.projectDetails,
+          timeline: formState.timeline,
+          _subject: `Portfolio inquiry from ${formState.fullName || 'a visitor'}`,
+        }),
+      });
 
-    window.location.href = `mailto:${contactEmail}?subject=${subject}&body=${body}`;
+      if (!response.ok) {
+        throw new Error('Submission failed');
+      }
 
-    setFormState({
-      fullName: '',
-      company: '',
-      email: '',
-      phone: '',
-      projectDetails: '',
-      timeline: '',
-    });
+      setStatus('success');
+      setFormState({
+        fullName: '',
+        company: '',
+        email: '',
+        phone: '',
+        projectDetails: '',
+        timeline: '',
+      });
+    } catch (error) {
+      console.error(error);
+      setStatus('error');
+    }
   };
 
   return (
@@ -246,9 +266,15 @@ function App() {
               />
             </div>
 
-            <button type="submit" className="primary-btn submit-btn">
-              Send message
+            <button type="submit" className="primary-btn submit-btn" disabled={status === 'loading'}>
+              {status === 'loading' ? 'Sending...' : 'Send message'}
             </button>
+            {status === 'success' && (
+              <p className="form-status success">Thanks! Your message has been sent.</p>
+            )}
+            {status === 'error' && (
+              <p className="form-status error">Something went wrong. Please try again later.</p>
+            )}
           </form>
         </section>
       </main>
