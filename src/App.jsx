@@ -23,6 +23,8 @@ const projectList = [
 ];
 
 function App() {
+  const contactEmail = import.meta.env.VITE_CONTACT_EMAIL || 'your-email@example.com';
+
   const [formState, setFormState] = useState({
     fullName: '',
     company: '',
@@ -39,7 +41,16 @@ function App() {
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    alert('Thank you! Your message has been submitted. I will reach out soon.');
+
+    const subject = encodeURIComponent(
+      `Portfolio inquiry from ${formState.fullName || 'a visitor'}`
+    );
+    const body = encodeURIComponent(
+      `Name: ${formState.fullName}\nCompany: ${formState.company}\nEmail: ${formState.email}\nPhone: ${formState.phone}\n\nProject details:\n${formState.projectDetails}\n\nTimeline: ${formState.timeline}`
+    );
+
+    window.location.href = `mailto:${contactEmail}?subject=${subject}&body=${body}`;
+
     setFormState({
       fullName: '',
       company: '',
@@ -48,7 +59,6 @@ function App() {
       projectDetails: '',
       timeline: '',
     });
-    window.location.href = import.meta.env.BASE_URL || '/';
   };
 
   return (
