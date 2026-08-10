@@ -68,13 +68,15 @@ Amanuel-Data-Analytics-Portfolio/
 └── README.md
 ```
 
+Each Power BI project folder includes its own `README.md` with full project details, insights, and included files.
+
 ## Project Index
 
 | Project | Category | Tools | Link |
 | --- | --- | --- | --- |
-| **Sales Performance Dashboard** | Power BI | Power BI, DAX, Power Query | View Project |
-| **HR Attrition Analysis** | Power BI | Power BI, DAX | View Project |
-| **Customer Segmentation (RFM)** | Power BI | Power BI, DAX | View Project |
+| **Sales Performance Dashboard** | Power BI | Power BI, DAX, Power Query | [View Project](PowerBI-Projects/Sales-Performance-Dashboard/README.md) |
+| **HR Attrition Analysis** | Power BI | Power BI, DAX | [View Project](PowerBI-Projects/HR-Attrition-Analysis/README.md) |
+| **Customer Segmentation (RFM)** | Power BI | Power BI, DAX | [View Project](PowerBI-Projects/Customer-Segmentation-RFM/README.md) |
 | **AdventureWorks Sales Queries** | SQL | SQL Server | View Project |
 | **Retail Analytics SQL** | SQL | SQL | View Project |
 | **Netflix EDA** | Python | Pandas, Seaborn | View Project |
