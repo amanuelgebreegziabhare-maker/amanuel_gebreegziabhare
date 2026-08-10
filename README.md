@@ -100,5 +100,5 @@ This portfolio demonstrates my ability to:
 
 If you’d like to collaborate or discuss data analytics opportunities:
 
-- **LinkedIn:** Add your link
+- **LinkedIn:** [[Add your link](https://www.linkedin.com/in/amanuel-gebreegziabhare-4229953b9)
 - **Email:** amanuelgebreegziabhare@gmail.com
