@@ -68,7 +68,7 @@ Amanuel-Data-Analytics-Portfolio/
 └── README.md
 ```
 
-Each Power BI project folder includes its own `README.md` with full project details, insights, and included files.
+Each dashboard folder includes its own `README.md` with full project details, insights, and included files.
 
 ## Project Index
 
@@ -77,6 +77,9 @@ Each Power BI project folder includes its own `README.md` with full project deta
 | **Sales Performance Dashboard** | Power BI | Power BI, DAX, Power Query | [View Project](PowerBI-Projects/Sales-Performance-Dashboard/README.md) |
 | **HR Attrition Analysis** | Power BI | Power BI, DAX | [View Project](PowerBI-Projects/HR-Attrition-Analysis/README.md) |
 | **Customer Segmentation (RFM)** | Power BI | Power BI, DAX | [View Project](PowerBI-Projects/Customer-Segmentation-RFM/README.md) |
+| **Account Payable Financial Analysis** | Power BI | Power BI, DAX | [View Project](PowerBI-Projects/Account%20Payable%20Financial%20Analysis/README.md) |
+| **Grocery Inventory Dashboard** | Power BI | Power BI, DAX | [View Project](PowerBI-Projects/Grocery%20Inventory%20Dashboard/README.md) |
+| **Flight Detail Report & Dashboard** | Power BI | Power BI, DAX | [View Project](PowerBI-Projects/Flight%20Detail%20Report%20%26%20Dashboard/README.md) |
 | **AdventureWorks Sales Queries** | SQL | SQL Server | View Project |
 | **Retail Analytics SQL** | SQL | SQL | View Project |
 | **Netflix EDA** | Python | Pandas, Seaborn | View Project |
