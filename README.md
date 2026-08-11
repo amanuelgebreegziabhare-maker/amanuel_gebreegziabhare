@@ -2,6 +2,10 @@
 
 Brief collection of end-to-end Power BI, SQL and Python projects showcasing data cleaning, modeling, visualization, and storytelling.
 
+**Recruiter summary:** Data Analyst and Power BI developer with hands-on experience delivering end-to-end dashboards and analyses for finance, HR, and operations. Skilled in Power BI (DAX, Power Query), SQL, Python, and data storytelling — available for analytics roles and contract projects.
+
+[![Repo](https://img.shields.io/badge/github-portfolio-blue?logo=github)](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare) [![Docs](https://img.shields.io/badge/docs-README-green)](README.md) [![LFS](https://img.shields.io/badge/git--lfs-enabled-brightgreen)](https://git-lfs.github.com)
+
 ## Quick Start
 
 To preview this site locally (requires Node.js):
@@ -28,20 +32,28 @@ See the `PowerBI-Projects/` folder for the full index of projects.
 Certificates in the `Certificates/` folder are linked below for quick verification of skills.
 
 - **Power BI:**
-	- [Get started with Microsoft Data Analytics](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Get started with Microsoft data analytics.pdf)
-	- [Model Data with Power BI](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Model data with Power BI.pdf)
-	- [Design Effective Reports in Power BI](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Design effective reports in Power BI.pdf)
-	- [Manage and Secure Power BI](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Manage and Secure Power BI.pdf)
-	- [Preparing Data for Analysis with Power BI](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn - Preparing Data for Analysis with Power BI.pdf)
+
+- **Power BI:**
+	- [Get started with Microsoft Data Analytics (cert)](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Get started with Microsoft data analytics.pdf)
+	- [Model Data with Power BI (cert)](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Model data with Power BI.pdf)
+	- [Design Effective Reports in Power BI (cert)](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Design effective reports in Power BI.pdf)
+	- [Manage and Secure Power BI (cert)](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Manage and Secure Power BI.pdf)
+	- [Preparing Data for Analysis with Power BI (cert)](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn - Preparing Data for Analysis with Power BI.pdf)
 
 - **DAX:**
-	- [Use DAX in Semantic Models](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Use DAX in Semantic Models.pdf)
+
+- **DAX:**
+	- [Use DAX in Semantic Models (cert)](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Use DAX in Semantic Models.pdf)
 
 - **Power Query / Data Preparation:**
-	- [Prepare and Visualize Data](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Prepare and visualize data with Microsoft.pdf)
+
+- **Power Query / Data Preparation:**
+	- [Prepare and Visualize Data (cert)](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Prepare and visualize data with Microsoft.pdf)
 
 - **Microsoft Fabric / Data Ingestion:**
-	- [Ingest Data with Microsoft Fabric](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn - Injust Data with Microsoft Fabrics.pdf)
+
+- **Microsoft Fabric / Data Ingestion:**
+	- [Ingest Data with Microsoft Fabric (cert)](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn - Injust Data with Microsoft Fabrics.pdf)
 
 - **Degree & Transcript:**
 	- [Bachelor Degree (image)](Certificates/My Bachelor Degree.jpg)
