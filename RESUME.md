@@ -8,79 +8,78 @@ Skills
 •	SQL (SQL Server, MySQL, PostgreSQL)
 •	Python (Pandas, NumPy, SciPy, MatPlotLib)
 AMANUEL GEBREEGZIABHARE
-Data Analyst & Power BI Developer
+Data Analyst • Power BI Developer
 
-Dubai, United Arab Emirates  •  (971) 581 298 328  •  amanuelgebreegziabhare@gmail.com
-[LinkedIn](https://www.linkedin.com/in/amanuelgebreegziabhare-4229953b9/)  •  [GitHub](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare)
+Dubai, UAE | +971 581 298 328 | amanuelgebreegziabhare@gmail.com
+[LinkedIn](https://www.linkedin.com/in/amanuelgebreegziabhare-4229953b9) • [GitHub](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare)
 
-SUMMARY
-Experienced Data Analyst and Power BI Developer with a track record of delivering end-to-end analytics solutions for finance, operations, and HR. Skilled in Power BI (Power Query, DAX), SQL, Python (pandas), and data modeling. Proven ability to convert business requirements into actionable dashboards and automate reporting workflows.
+PROFESSIONAL SUMMARY
+Analytical and results-driven Data Analyst and Power BI Developer with proven experience building end-to-end BI solutions for finance, operations and HR. Skilled at translating business needs into intuitive dashboards, automating reporting workflows, and improving data quality. Strong in Power BI (Power Query, DAX), SQL, Python (pandas), and data modeling.
 
-HIGHLIGHTS
-- Built and deployed finance and operations dashboards used by stakeholders to drive decisions.
-- Reduced manual reporting time by 50% via automation and efficient data pipelines.
-- Experienced creating data models, DAX measures, and interactive Power BI reports (PBIX).
+CORE SKILLS
+- Power BI: report design, data modeling, DAX, Power Query
+- SQL: querying, joins, CTEs, aggregations (SQL Server / MySQL / PostgreSQL)
+- Python: pandas, NumPy, Matplotlib; data cleaning and visualization
+- Data engineering: ETL, data validation, Git/Git LFS, basic Azure
+- Excel: PivotTables, formulas, automation (VBA basics)
 
-TECHNICAL SKILLS
-- Power BI (Power Query, DAX, PBIX)
-- SQL (SQL Server, MySQL, PostgreSQL)
-- Python (pandas, NumPy, Matplotlib)
-- Data modeling, ETL, data cleaning
-- Excel (PivotTables, formulas, VBA basics)
-- Git & Git LFS, Azure basics
+SELECTED ACHIEVEMENTS
+- Automated reporting and reduced manual processing time by 50% through Excel + Power Query and report automation.
+- Designed and delivered finance dashboards enabling faster visibility into payables and vendor risk for stakeholders.
+- Built customer RFM segmentation and operational dashboards used for targeted retention campaigns.
 
 SELECTED PROJECTS
 
 - Account Payable Financial Analysis — Power BI (Apr 2026)
-	- Accounts payable dashboard: overdue payables, vendor risk, currency exposure.
-	- Tools: Power BI, Power Query, DAX
-	- Files: [Project README](PowerBI-Projects/Account%20Payable%20Financial%20Analysis/README.md) | [Screenshot](PowerBI-Projects/Account%20Payable%20Financial%20Analysis/Accounts%20Payable%20Dashboard%20-%20Screenshot.png)
+	• Accounts payable dashboard: overdue payables, vendor risk, currency exposure.
+	• Tools: Power BI, Power Query, DAX
+	• Files: [README](PowerBI-Projects/Account%20Payable%20Financial%20Analysis/README.md) | [Screenshot](PowerBI-Projects/Account%20Payable%20Financial%20Analysis/Accounts%20Payable%20Dashboard%20-%20Screenshot.png)
 
 - Flight Detail Report & Dashboard — Power BI (May 2026)
-	- Flight operations and finance dashboards: delays, cancellations, transaction analytics.
-	- Tools: Power BI, DAX, Power Query
-	- Files: [Project README](PowerBI-Projects/Flight%20Detail%20Report%20%26%20Dashboard/README.md)
+	• Flight operations and finance dashboards: delays, cancellations, transaction analytics.
+	• Files: [README](PowerBI-Projects/Flight%20Detail%20Report%20%26%20Dashboard/README.md)
 
 - Grocery Inventory Dashboard — Power BI (Jun 2026)
-	- Inventory management dashboard: stock levels, turnover, supplier performance.
-	- Files: [Project README](PowerBI-Projects/Grocery%20Inventory%20Dashboard/README.md) | [Screenshot](PowerBI-Projects/Grocery%20Inventory%20Dashboard/Grocery%20Inventory%20Dashboard%20Screenshot.png)
+	• Inventory dashboard: stock levels, turnover, supplier performance.
+	• Files: [README](PowerBI-Projects/Grocery%20Inventory%20Dashboard/README.md) | [Screenshot](PowerBI-Projects/Grocery%20Inventory%20Dashboard/Grocery%20Inventory%20Dashboard%20Screenshot.png)
 
 - Customer Segmentation (RFM) — Power BI
-	- RFM segmentation to identify high-value and at-risk customers.
-	- Files: [Project README](PowerBI-Projects/Customer-Segmentation-RFM/README.md)
+	• RFM segmentation and customer tiering for targeted campaigns.
+	• Files: [README](PowerBI-Projects/Customer-Segmentation-RFM/README.md)
 
 PROFESSIONAL EXPERIENCE
 
-Data Analyst / Power BI Developer — Freelance & Business Intelligence Projects, Dubai, UAE
+Data Analyst / Power BI Developer — Freelance & BI Projects, Dubai, UAE
 Feb 2025 – Aug 2026
-- Delivered interactive Power BI dashboards for finance, sales, and operations.
-- Implemented an Excel + VBA reporting improvement that reduced processing time by 50%.
-- Built ETL pipelines with Power Query; created DAX measures for KPIs and variance analysis.
-- Used SQL for data extraction, validation and reconciliation across multiple sources.
-- Automated recurring reports and implemented data-quality checks.
+- Delivered interactive Power BI dashboards for finance, sales and operations and published reports for stakeholders.
+- Implemented reporting automation (Excel + Power Query) that reduced processing time by ~50%.
+- Built ETL pipelines with Power Query, applied data-quality checks, and developed DAX measures for KPIs and variance analysis.
+- Used SQL to extract, validate, and reconcile data from multiple sources.
 
-Data Analytics Project — Data Semantics Technologies, Dubai, UAE
+Data Analyst — Data Semantics Technologies, Dubai, UAE
 Dec 2024 – Feb 2025
-- Collected and transformed business data; developed Power BI dashboards for operational and financial reporting.
-- Designed data models, created DAX measures, and automated management reports.
+- Developed operational and financial reporting dashboards; automated management reports and improved report delivery.
 
 EDUCATION
 
 B.Sc., Mechanical Engineering — Addis Ababa University, Ethiopia (June 2005)
 
 CERTIFICATIONS
+- Manage and Secure Power BI — Microsoft Learn
+- Design Effective Reports in Power BI — Microsoft Learn
+- Prepare and Visualize Data with Power BI — Microsoft Learn
+- Model Data with Power BI — Microsoft Learn
+- Use DAX in Semantic Models — Microsoft Learn
+- Ingest Data with Microsoft Fabric — Microsoft Learn
 
-- [Manage and Secure Power BI](Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn_Manage%20and%20Secure%20Power%20BI.pdf)
-- [Design Effective Reports in Power BI](Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn_Design%20effective%20reports%20in%20Power%20BI.pdf)
-- [Prepare and Visualize Data with Power BI](Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn_Prepare%20and%20visualize%20data%20with%20Microsoft.pdf)
-- [Model Data with Power BI](Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn_Model%20data%20with%20Power%20BI.pdf)
-- [Use DAX in Semantic Models](Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn_Use%20DAX%20in%20Semantic%20Models.pdf)
-- [Ingest Data with Microsoft Fabric](Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn%20-%20Injust%20Data%20with%20Microsoft%20Fabrics.pdf)
+ADDITIONAL MATERIALS
+- Full portfolio and project READMEs: [PowerBI-Projects](PowerBI-Projects)
+- Certificates: [Certificates folder](Certificates)
 
 CONTACT
 
 Email: amanuelgebreegziabhare@gmail.com  •  LinkedIn: https://www.linkedin.com/in/amanuelgebreegziabhare-4229953b9/  •  GitHub: https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare
 
 ---
-If you want this exported as a one-page PDF resume or a LinkedIn-ready summary, I can format and generate that next.
+If you want, I can export this resume to a one-page PDF using a clean template, or generate a LinkedIn-ready summary next.
 BACHELOR OF SCIENCE IN MECHANICAL ENGINEERING – Addis Ababa University – Ethiopia, AA 	June 2005
