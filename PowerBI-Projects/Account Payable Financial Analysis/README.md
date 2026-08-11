@@ -24,6 +24,10 @@ This Power BI project delivers an Accounts Payable dashboard designed to help fi
 - `Accounts Payable Dashboard - Screenshot.png` — dashboard preview
 - `Power BI AP DAX YouTube Script.docx` — DAX and storytelling notes for the report
 
+## Screenshot
+
+![Accounts Payable Dashboard](Accounts%20Payable%20Dashboard%20-%20Screenshot.png)
+
 ## Key Metrics
 
 - Total payable amount

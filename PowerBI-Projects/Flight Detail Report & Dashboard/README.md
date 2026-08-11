@@ -25,6 +25,12 @@ This Power BI solution includes a flight operations dashboard and a finance anal
 - `Flight Detail Report - Screenshot.png` — report preview
 - `Airline+Flight+Delays.zip` — source data archive
 
+## Screenshots
+
+![Flight Detail Dashboard](Flight%20Detail%20Dashboard%20-%20Screenshot.png)
+
+![Flight Detail Report](Flight%20Detail%20Report%20-%20Screenshot.png)
+
 ### Finance Analysis Complete Dashboard
 - `Financial Analysis Complete Dashboard/Power BI Project  - Finance Analysis Complete Dashboard.pbix`
 - `customers.csv`

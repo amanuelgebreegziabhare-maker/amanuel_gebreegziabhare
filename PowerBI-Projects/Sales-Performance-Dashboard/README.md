@@ -46,6 +46,12 @@ This Power BI project showcases a high-impact sales performance dashboard for bu
 - `data/` — Source datasets used for analysis
 - `README.md` — Project overview and documentation
 
+## Screenshot
+
+_No screenshot found in this folder._
+
+To add a screenshot that appears here, place an image named `Sales Performance Dashboard - Screenshot.png` in this folder and I'll embed it in the README.
+
 ## How to Explore
 
 Open the Power BI file in Power BI Desktop to explore the dashboards, interact with filters, and review the story visuals. You can also review the data model and DAX expressions used in the report.

@@ -27,6 +27,10 @@ This Power BI dashboard provides inventory management insights for grocery retai
 - `Grocery Inventory Dashboard Background-02.png` — dashboard background asset
 - `Grocery Logo.png` — branding logo
 
+## Screenshot
+
+![Grocery Inventory Dashboard](Grocery%20Inventory%20Dashboard%20Screenshot.png)
+
 ## Key Metrics
 
 - Total stock quantity

@@ -44,6 +44,12 @@ This Power BI project demonstrates customer segmentation using RFM (Recency, Fre
 - `data/` — Transaction and customer datasets
 - `README.md` — Project documentation
 
+## Screenshot
+
+_No screenshot found in this folder._
+
+To add a screenshot that appears here, place an image named `Customer Segmentation - Screenshot.png` in this folder and I'll embed it in the README.
+
 ## How to Explore
 
 Open the Power BI file in Power BI Desktop to view the segmentation dashboards, interact with customer groups, and review the RFM scorecards. Use the visuals to identify segment-specific actions.

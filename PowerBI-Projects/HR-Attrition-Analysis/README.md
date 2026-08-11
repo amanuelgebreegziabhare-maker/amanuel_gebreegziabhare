@@ -46,6 +46,12 @@ This Power BI report explores employee attrition and retention trends for HR lea
 - `data/` — HR datasets and supporting files
 - `README.md` — Project documentation
 
+## Screenshot
+
+_No screenshot found in this folder._
+
+To add a screenshot that appears here, place an image named `HR Attrition Dashboard - Screenshot.png` in this folder and I'll embed it in the README.
+
 ## How to Explore
 
 Open the Power BI file in Power BI Desktop to review the dashboards, drill into employee segments, and analyze the attrition story. Use the report filters to inspect workforce dynamics and risk indicators.
