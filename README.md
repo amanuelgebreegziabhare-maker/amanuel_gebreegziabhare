@@ -42,6 +42,20 @@ Project folders include Power BI dashboards, PBIX files, datasets and per-projec
 | Grocery Inventory Dashboard | Power BI | ![Power BI](https://img.shields.io/badge/Power%20BI-Power%20BI-brightgreen) ![PowerQuery](https://img.shields.io/badge/PowerQuery-ETL-yellow) | [Open project](PowerBI-Projects/Grocery%20Inventory%20Dashboard/README.md) |
 | Flight Detail Report & Dashboard | Power BI | ![Power BI](https://img.shields.io/badge/Power%20BI-Power%20BI-brightgreen) ![PBIX](https://img.shields.io/badge/PBIX-PBIX-lightgrey) | [Open project](PowerBI-Projects/Flight%20Detail%20Report%20%26%20Dashboard/README.md) |
 
+## Project gallery
+
+Click a thumbnail to open the full-size screenshot.
+
+[![Accounts Payable Dashboard](assets/screenshots/thumbs/Account_Payable_Financial_Analysis__Accounts_Payable_Dashboard_-_Screenshot.png)](PowerBI-Projects/Account%20Payable%20Financial%20Analysis/Accounts%20Payable%20Dashboard%20-%20Screenshot.png)  
+[![Grocery Inventory Dashboard](assets/screenshots/thumbs/Grocery_Inventory_Dashboard__Grocery_Inventory_Dashboard_Screenshot.png)](PowerBI-Projects/Grocery%20Inventory%20Dashboard/Grocery%20Inventory%20Dashboard%20Screenshot.png)  
+[![Flight Detail Dashboard](assets/screenshots/thumbs/Flight_Detail_Report_&_Dashboard__Flight_Detail_Dashboard_-_Screenshot.png)](PowerBI-Projects/Flight%20Detail%20Report%20%26%20Dashboard/Flight%20Detail%20Dashboard%20-%20Screenshot.png)  
+
+[![Flight Detail Report](assets/screenshots/thumbs/Flight_Detail_Report_&_Dashboard__Flight_Detail_Report_-_Screenshot.png)](PowerBI-Projects/Flight%20Detail%20Report%20%26%20Dashboard/Flight%20Detail%20Report%20-%20Screenshot.png)  
+[![Finance Analysis - Overview](assets/screenshots/thumbs/Financial_Analysis_Complete_Dashboard__Financial_Analysis_Dashboard_Overall_View_Screenshot.png)](PowerBI-Projects/Flight%20Detail%20Report%20%26%20Dashboard/Financial%20Analysis%20Complete%20Dashboard/Financial%20Analysis%20Dashboard%20Overall%20View%20Screenshot.png)  
+[![Finance Analysis - Page](assets/screenshots/thumbs/Financial_Analysis_Complete_Dashboard__Financial_Analysis_Dashboard_Screenshot.png)](PowerBI-Projects/Flight%20Detail%20Report%20%26%20Dashboard/Financial%20Analysis%20Complete%20Dashboard/Financial%20Analysis%20Dashboard%20Screenshot.png)
+
+_Screenshots are stored in each project folder; thumbnails are generated in `assets/screenshots/thumbs`._
+
 
 ## Technical skills & certificates
 
