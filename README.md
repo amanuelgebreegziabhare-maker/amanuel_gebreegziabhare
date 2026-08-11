@@ -28,25 +28,24 @@ See the `PowerBI-Projects/` folder for the full index of projects.
 Certificates in the `Certificates/` folder are linked below for quick verification of skills.
 
 - **Power BI:**
-	- [Get started with Microsoft data analytics](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Get started with Microsoft data analytics.pdf)
-	- [Model data with Power BI](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Model data with Power BI.pdf)
-	- [Design effective reports in Power BI](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Design effective reports in Power BI.pdf)
+	- [Get started with Microsoft Data Analytics](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Get started with Microsoft data analytics.pdf)
+	- [Model Data with Power BI](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Model data with Power BI.pdf)
+	- [Design Effective Reports in Power BI](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Design effective reports in Power BI.pdf)
 	- [Manage and Secure Power BI](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Manage and Secure Power BI.pdf)
 	- [Preparing Data for Analysis with Power BI](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn - Preparing Data for Analysis with Power BI.pdf)
 
 - **DAX:**
 	- [Use DAX in Semantic Models](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Use DAX in Semantic Models.pdf)
-	- [Use DAX in semantic models (alt)](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Use DAX in semantic models.pdf)
 
 - **Power Query / Data Preparation:**
-	- [Prepare and visualize data with Microsoft](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Prepare and visualize data with Microsoft.pdf)
+	- [Prepare and Visualize Data](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Prepare and visualize data with Microsoft.pdf)
 
 - **Microsoft Fabric / Data Ingestion:**
-	- [Ingest Data with Microsoft Fabrics](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn - Injust Data with Microsoft Fabrics.pdf)
+	- [Ingest Data with Microsoft Fabric](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn - Injust Data with Microsoft Fabrics.pdf)
 
 - **Degree & Transcript:**
-	- [My Bachelor Degree](Certificates/My Bachelor Degree.jpg)
-	- [Transcript](Certificates/Transcript - amanuelwtensay-1269 _ Microsoft Learn.pdf)
+	- [Bachelor Degree (image)](Certificates/My Bachelor Degree.jpg)
+	- [Transcript (PDF)](Certificates/Transcript - amanuelwtensay-1269 _ Microsoft Learn.pdf)
 
 ## Contributing / Notes
 
