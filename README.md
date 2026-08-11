@@ -1,104 +1,61 @@
 # Amanuel’s Data Analytics & Power BI Portfolio
 
-Welcome to my **Data Analytics & Power BI Portfolio** — a collection of end-to-end projects demonstrating my skills in **Power BI**, **SQL**, **Python**, **DAX**, **Power Query**, and **data storytelling**. Each project includes datasets, PBIX files, visuals, and detailed documentation to highlight my ability to transform raw data into actionable business insights.
+Brief collection of end-to-end Power BI, SQL and Python projects showcasing data cleaning, modeling, visualization, and storytelling.
 
-## About Me
+## Quick Start
 
-I am a **Data Analyst & Power BI Developer** passionate about turning data into meaningful insights that drive business decisions. My work focuses on:
+To preview this site locally (requires Node.js):
 
-- Building interactive dashboards
-- Designing efficient data models
-- Writing analytical SQL queries
-- Performing exploratory data analysis
-- Communicating insights clearly and visually
-
-## Technical Skills
-
-### Power BI
-
-- Data modeling (Star Schema)
-- DAX measures
-- KPI design
-- Interactive dashboards
-
-### Power Query
-
-- ETL
-- Data cleaning
-- M transformations
-
-### Python
-
-- Pandas
-- EDA
-- Visualization
-
-### SQL
-
-- Joins
-- CTEs
-- Window functions
-- Aggregations
-
-### Other Tools
-
-- Excel
-- Azure
-- Fabric
-- GitHub
-
-## Portfolio Structure
-
-```text
-Amanuel-Data-Analytics-Portfolio/
-│
-├── PowerBI-Projects/
-│   ├── Sales-Performance-Dashboard/
-│   ├── HR-Attrition-Analysis/
-│   └── Customer-Segmentation-RFM/
-│
-├── SQL-Projects/
-│   ├── AdventureWorks-Sales-Queries/
-│   └── Retail-Analytics-SQL/
-│
-├── Python-EDA-Projects/
-│   ├── Netflix-EDA/
-│   └── Covid19-EDA/
-│
-└── README.md
+```bash
+npm install
+npm run dev
 ```
 
-Each dashboard folder includes its own `README.md` with full project details, insights, and included files.
+Open the local URL shown by Vite to browse the portfolio and project READMEs.
 
-## Project Index
+## What’s Included
 
-| Project | Category | Tools | Link |
-| --- | --- | --- | --- |
-| **Sales Performance Dashboard** | Power BI | Power BI, DAX, Power Query | [View Project](PowerBI-Projects/Sales-Performance-Dashboard/README.md) |
-| **HR Attrition Analysis** | Power BI | Power BI, DAX | [View Project](PowerBI-Projects/HR-Attrition-Analysis/README.md) |
-| **Customer Segmentation (RFM)** | Power BI | Power BI, DAX | [View Project](PowerBI-Projects/Customer-Segmentation-RFM/README.md) |
-| **Account Payable Financial Analysis** | Power BI | Power BI, DAX | [View Project](PowerBI-Projects/Account%20Payable%20Financial%20Analysis/README.md) |
-| **Grocery Inventory Dashboard** | Power BI | Power BI, DAX | [View Project](PowerBI-Projects/Grocery%20Inventory%20Dashboard/README.md) |
-| **Flight Detail Report & Dashboard** | Power BI | Power BI, DAX | [View Project](PowerBI-Projects/Flight%20Detail%20Report%20%26%20Dashboard/README.md) |
-| **AdventureWorks Sales Queries** | SQL | SQL Server | View Project |
-| **Retail Analytics SQL** | SQL | SQL | View Project |
-| **Netflix EDA** | Python | Pandas, Seaborn | View Project |
-| **Covid-19 EDA** | Python | Pandas, Matplotlib | View Project |
 
-## Purpose of This Portfolio
+Each project folder contains its own `README.md` with details, data sources, and insights.
 
-This portfolio demonstrates my ability to:
+## Highlights
 
-- Clean and transform raw data
-- Build analytical data models
-- Create interactive dashboards
-- Write efficient SQL queries
-- Perform exploratory data analysis
-- Deliver actionable business insights
+
+See the `PowerBI-Projects/` folder for the full index of projects.
+
+## Technical Skills & Certificates
+
+Certificates in the `Certificates/` folder are linked below for quick verification of skills.
+
+- **Power BI:**
+	- [Get started with Microsoft Data Analytics](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Get started with Microsoft data analytics.pdf)
+	- [Model Data with Power BI](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Model data with Power BI.pdf)
+	- [Design Effective Reports in Power BI](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Design effective reports in Power BI.pdf)
+	- [Manage and Secure Power BI](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Manage and Secure Power BI.pdf)
+	- [Preparing Data for Analysis with Power BI](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn - Preparing Data for Analysis with Power BI.pdf)
+
+- **DAX:**
+	- [Use DAX in Semantic Models](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Use DAX in Semantic Models.pdf)
+
+- **Power Query / Data Preparation:**
+	- [Prepare and Visualize Data](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn_Prepare and visualize data with Microsoft.pdf)
+
+- **Microsoft Fabric / Data Ingestion:**
+	- [Ingest Data with Microsoft Fabric](Certificates/Achievements - amanuelwtensay-1269 _ Microsoft Learn - Injust Data with Microsoft Fabrics.pdf)
+
+- **Degree & Transcript:**
+	- [Bachelor Degree (image)](Certificates/My Bachelor Degree.jpg)
+	- [Transcript (PDF)](Certificates/Transcript - amanuelwtensay-1269 _ Microsoft Learn.pdf)
+
+## Contributing / Notes
+
+- Please do not commit `node_modules/` — add it to `.gitignore` if present.
+- Large binary files (PBIX, PDFs) are included where necessary; consider using Git LFS for very large files.
 
 ## Contact
 
-If you’d like to collaborate or discuss data analytics opportunities:
+- LinkedIn: [Amanuel Gebreegziabhare](https://www.linkedin.com/in/amanuel-gebreegziabhare-4229953b9)
+- Email: amanuelgebreegziabhare@gmail.com
 
-- **LinkedIn:** [[Add your link](https://www.linkedin.com/in/amanuel-gebreegziabhare-4229953b9)
-- **Email:** amanuelgebreegziabhare@gmail.com
+---
+If you want, I can also add a short summary at the top for recruiters, add badges, or enable Git LFS and update `.gitignore` for `node_modules/`.
