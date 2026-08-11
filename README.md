@@ -31,6 +31,18 @@ Visit the URL shown by Vite to browse project pages.
 
 Project folders include Power BI dashboards, PBIX files, datasets and per-project READMEs. See the `PowerBI-Projects/` directory for detailed project writeups.
 
+### Key projects
+
+| Project | Category | Tools | Link |
+| --- | --- | --- | --- |
+| Sales Performance Dashboard | Power BI | ![Power BI](https://img.shields.io/badge/Power%20BI-Power%20BI-brightgreen) ![DAX](https://img.shields.io/badge/DAX-DAX-blue) | [Open project](PowerBI-Projects/Sales-Performance-Dashboard/README.md) |
+| HR Attrition Analysis | Power BI | ![Power BI](https://img.shields.io/badge/Power%20BI-Power%20BI-brightgreen) ![SQL](https://img.shields.io/badge/SQL-SQL-blue) | [Open project](PowerBI-Projects/HR-Attrition-Analysis/README.md) |
+| Customer Segmentation (RFM) | Power BI | ![Power BI](https://img.shields.io/badge/Power%20BI-Power%20BI-brightgreen) ![RFM](https://img.shields.io/badge/RFM-Analysis-orange) | [Open project](PowerBI-Projects/Customer-Segmentation-RFM/README.md) |
+| Account Payable Financial Analysis | Power BI | ![Power BI](https://img.shields.io/badge/Power%20BI-Power%20BI-brightgreen) ![DAX](https://img.shields.io/badge/DAX-DAX-blue) | [Open project](PowerBI-Projects/Account%20Payable%20Financial%20Analysis/README.md) |
+| Grocery Inventory Dashboard | Power BI | ![Power BI](https://img.shields.io/badge/Power%20BI-Power%20BI-brightgreen) ![PowerQuery](https://img.shields.io/badge/PowerQuery-ETL-yellow) | [Open project](PowerBI-Projects/Grocery%20Inventory%20Dashboard/README.md) |
+| Flight Detail Report & Dashboard | Power BI | ![Power BI](https://img.shields.io/badge/Power%20BI-Power%20BI-brightgreen) ![PBIX](https://img.shields.io/badge/PBIX-PBIX-lightgrey) | [Open project](PowerBI-Projects/Flight%20Detail%20Report%20%26%20Dashboard/README.md) |
+
+
 ## Technical skills & certificates
 
 Below are certificate files included in the `Certificates/` folder for quick verification. Filenames are URL-encoded so links work reliably on GitHub.
