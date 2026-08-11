@@ -69,7 +69,7 @@ Below are certificate files included in the `Certificates/` folder for quick ver
   - [Preparing Data for Analysis with Power BI (cert)](Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn%20-%20Preparing%20Data%20for%20Analysis%20with%20Power%20BI.pdf)
 
 - DAX:
-  - [Use DAX in Semantic Models (cert)](Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn_Use%20DAX%20in%20Semantic%20Models.pdf)
+  - [Use DAX in Semantic Models (cert)](Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn_Use%20DAX%20in%20semantic%20models.pdf)
 
 - Power Query / Data Preparation:
   - [Prepare and Visualize Data (cert)](Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn_Prepare%20and%20visualize%20data%20with%20Microsoft.pdf)
