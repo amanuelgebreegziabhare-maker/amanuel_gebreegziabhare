@@ -48,9 +48,7 @@ This Power BI project showcases a high-impact sales performance dashboard for bu
 
 ## Screenshot
 
-_No screenshot found in this folder._
-
-To add a screenshot that appears here, place an image named `Sales Performance Dashboard - Screenshot.png` in this folder and I'll embed it in the README.
+![Sales_Performance_Dashboard](Sales%20Perdomance%20Dashboard%20Main%20%20Screenshot.png)
 
 ## How to Explore
 
