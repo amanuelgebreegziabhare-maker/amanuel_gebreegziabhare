@@ -54,7 +54,6 @@ Click a thumbnail to open the full-size screenshot.
 [![Finance Analysis - Overview](assets/screenshots/thumbs/Financial_Analysis_Complete_Dashboard__Financial_Analysis_Dashboard_Overall_View_Screenshot.png)](PowerBI-Projects/Flight%20Detail%20Report%20%26%20Dashboard/Financial%20Analysis%20Complete%20Dashboard/Financial%20Analysis%20Dashboard%20Overall%20View%20Screenshot.png)  
 [![Finance Analysis - Page](assets/screenshots/thumbs/Financial_Analysis_Complete_Dashboard__Financial_Analysis_Dashboard_Screenshot.png)](PowerBI-Projects/Flight%20Detail%20Report%20%26%20Dashboard/Financial%20Analysis%20Complete%20Dashboard/Financial%20Analysis%20Dashboard%20Screenshot.png)
 
-[![Accounts Payable Dashboard](assets/screenshots/thumbs/Account_Payable_Financial_Analysis__Accounts_Payable_Dashboard_-_Screenshot.png)](PowerBI-Projects/Account%20Payable%20Financial%20Analysis/Accounts%20Payable%20Dashboard%20-%20Screenshot.png)
 _Screenshots are stored in each project folder; thumbnails are generated in `assets/screenshots/thumbs`._
 
 
