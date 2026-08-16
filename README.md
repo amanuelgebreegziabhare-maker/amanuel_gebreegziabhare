@@ -81,6 +81,9 @@ Below are certificate files included in the `Certificates/` folder for quick ver
   - [Bachelor Degree (image)](Certificates/My%20Bachelor%20Degree.jpg)
   - [Transcript (PDF)](Certificates/Transcript%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn.pdf)
 
+· SQL:
+  o Introduction to SQL – Simplilearn (cert) – [View Certificate](Certificates/Introduction-to-SQL-Simplilearn.pdf)
+
 ## Contributing & notes
 
 - Add `node_modules/` to `.gitignore` to avoid committing dependencies. A `.gitignore` is present in this repo.
