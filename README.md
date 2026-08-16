@@ -46,6 +46,8 @@ Project folders include Power BI dashboards, PBIX files, datasets and per-projec
 
 Click a thumbnail to open the full-size screenshot.
 
+![Accounts Payable Dashboard](PowerBI-Projects/Account Payable Financial Analysis/Accounts Payable Dashboard - Screenshot.png)
+
 [![Accounts Payable Dashboard](assets/screenshots/thumbs/Account_Payable_Financial_Analysis__Accounts_Payable_Dashboard_-_Screenshot.png)](PowerBI-Projects/Account%20Payable%20Financial%20Analysis/Accounts%20Payable%20Dashboard%20-%20Screenshot.png)  
 [![Grocery Inventory Dashboard](assets/screenshots/thumbs/Grocery_Inventory_Dashboard__Grocery_Inventory_Dashboard_Screenshot.png)](PowerBI-Projects/Grocery%20Inventory%20Dashboard/Grocery%20Inventory%20Dashboard%20Screenshot.png)  
 [![Flight Detail Dashboard](assets/screenshots/thumbs/Flight_Detail_Report_&_Dashboard__Flight_Detail_Dashboard_-_Screenshot.png)](PowerBI-Projects/Flight%20Detail%20Report%20%26%20Dashboard/Flight%20Detail%20Dashboard%20-%20Screenshot.png)  
