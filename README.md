@@ -96,10 +96,4 @@ Below are certificate files included in the `Certificates/` folder for quick ver
 - Email: amanuelgebreegziabhare@gmail.com
 
 ---
-If you'd like, I can also:
 
-- add a one-line headline for recruiters
-- add a short projects table with badges and links
-- produce a lightweight public portfolio page from the `portfolio/` folder
-
-Reply with which of the above you want next.
