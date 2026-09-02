@@ -262,11 +262,11 @@ This combination allows me to approach analytics projects from both the **techni
 
 ## Microsoft Power BI
 
-* [Get Started with Microsoft Data Analytics](Certificates/)
-* [Model Data with Power BI](Certificates/)
-* [Design Effective Reports in Power BI](Certificates/)
-* [Manage and Secure Power BI](Certificates/)
-* [Preparing Data for Analysis with Power BI](Certificates/)
+* [Get Started with Microsoft Data Analytics](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn_Get%20started%20with%20Microsoft%20data%20analytics.pdf)
+* [Model Data with Power BI](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn_Model%20data%20with%20Power%20BI.pdf)
+* [Design Effective Reports in Power BI](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn_Design%20effective%20reports%20in%20Power%20BI.pdf)
+* [Manage and Secure Power BI](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn_Manage%20and%20Secure%20Power%20BI.pdf)
+* [Preparing Data for Analysis with Power BI](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn_Prepare%20and%20visualize%20data%20with%20Microsoft.pdf)
 
 ## DAX
 
