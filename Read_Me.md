@@ -143,7 +143,7 @@ A SQL analytics project focused on exploring and understanding structured data t
 * Aggregations
 * Filtering and analysis
 
-**[→ View SQL EDA Project](SQL-Projects/SQL-Exploratory-Data-Analysis)**
+**[→ View SQL EDA Project](https://github.com/amanuelgebreegziabhare-maker/SQL-Project-Exploratory-Data-Analysis/blob/main/README.md)**
 
 ---
 
@@ -161,7 +161,7 @@ An advanced SQL project demonstrating analytical techniques used to extract busi
 * Analytical queries
 * Data-driven insights
 
-**[→ View Advanced SQL Project](SQL-Projects/SQL-Advanced-Analytics)**
+**[→ View Advanced SQL Project](https://github.com/amanuelgebreegziabhare-maker/SQL-Project-Advanced-Data-Analytics)**
 
 ---
 
