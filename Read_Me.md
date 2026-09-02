@@ -270,19 +270,19 @@ This combination allows me to approach analytics projects from both the **techni
 
 ## DAX
 
-* [Use DAX in Semantic Models](Certificates/)
+* [Use DAX in Semantic Models](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn%20-%20Use%20DAX%20in%20Semantic%20Models.pdf)
 
 ## Power Query & Data Preparation
 
-* [Prepare and Visualize Data](Certificates/)
+* [Prepare and Visualize Data](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn_Prepare%20and%20visualize%20data%20with%20Microsoft.pdf)
 
 ## Microsoft Fabric
 
-* [Ingest Data with Microsoft Fabric](Certificates/)
+* [Ingest Data with Microsoft Fabric]([Certificates/](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn%20-%20Injust%20Data%20with%20Microsoft%20Fabrics.pdf))
 
 ## SQL
 
-* [Introduction to SQL — Simplilearn](Certificates/)
+* [Introduction to SQL — Simplilearn]([Certificates](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/Certificates/Introduction-to-SQL-Simplilearn.pdf))
 
 ---
 
