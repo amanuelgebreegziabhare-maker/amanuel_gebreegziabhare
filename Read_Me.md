@@ -337,7 +337,7 @@ Ongoing development through Microsoft Power BI, DAX, Power Query, Microsoft Fabr
 
 I am open to **Data Analyst, Power BI Developer, Business Intelligence, and analytics-focused opportunities**.
 
-**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/amanuelgebreegziabhare-4229953b)
+**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/amanuelgebreegziabhare-4229953b9)
 
 **Email:** [amanuelgebreegziabhare@gmail.com](mailto:amanuelgebreegziabhare@gmail.com)
 
