@@ -288,8 +288,8 @@ This combination allows me to approach analytics projects from both the **techni
 
 # 🎓 Education
 
-* **Bachelor Degree** — [View Degree](Certificates/)
-* **Academic Transcript** — [View Transcript](Certificates/)
+* **Bachelor Degree** — [View Degree](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/Certificates/My%20Bachelor%20Degree.jpg)
+* **Academic Transcript** — [View Transcript](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/Certificates/Transcript%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn.pdf)
 
 ---
 
