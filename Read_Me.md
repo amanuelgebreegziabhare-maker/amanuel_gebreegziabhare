@@ -173,7 +173,7 @@ An advanced SQL project demonstrating analytical techniques used to extract busi
 
 Dashboard project demonstrating inventory analysis, data preparation, and interactive reporting.
 
-**[→ View Project](PowerBI-Projects/Grocery-Inventory)**
+**[→ View Project](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Grocery%20Inventory%20Dashboard/README.md)**
 
 ---
 
@@ -183,7 +183,7 @@ Dashboard project demonstrating inventory analysis, data preparation, and intera
 
 Power BI reporting project demonstrating dashboard development and interactive data visualization.
 
-**[→ View Project](PowerBI-Projects/Flight-Detail-Report)**
+**[→ View Project](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Flight%20Detail%20Report%20%26%20Dashboard/README.md)**
 
 ---
 
