@@ -4,6 +4,12 @@
 
 This Power BI project delivers an Accounts Payable dashboard designed to help finance teams monitor payables, vendor performance, and cash outflow risk. The report uses transactional and vendor data to reveal overdue payables, payment status, and invoice trends.
 
+
+## Screenshot
+
+![Accounts Payable Dashboard](Accounts%20Payable%20Dashboard%20-%20Screenshot.png)
+
+
 ## Objectives
 
 - Track outstanding payables by vendor and currency
