@@ -46,7 +46,7 @@ An interactive Power BI sales analytics project focused on understanding busines
 * Sales performance analysis
 * Business-focused data visualization
 
-**[→ View Sales Performance Project](PowerBI-Projects/Sales-Performance)**
+**[→ View Sales Performance Project](PowerBI-Projects/Sales-Performance-Dashboard/README.md)**
 
 ---
 
