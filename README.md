@@ -41,6 +41,10 @@ Project folders include Power BI dashboards, PBIX files, datasets and per-projec
 | Account Payable Financial Analysis | Power BI | ![Power BI](https://img.shields.io/badge/Power%20BI-Power%20BI-brightgreen) ![DAX](https://img.shields.io/badge/DAX-DAX-blue) | [Open project](PowerBI-Projects/Account%20Payable%20Financial%20Analysis/README.md) |
 | Grocery Inventory Dashboard | Power BI | ![Power BI](https://img.shields.io/badge/Power%20BI-Power%20BI-brightgreen) ![PowerQuery](https://img.shields.io/badge/PowerQuery-ETL-yellow) | [Open project](PowerBI-Projects/Grocery%20Inventory%20Dashboard/README.md) |
 | Flight Detail Report & Dashboard | Power BI | ![Power BI](https://img.shields.io/badge/Power%20BI-Power%20BI-brightgreen) ![PBIX](https://img.shields.io/badge/PBIX-PBIX-lightgrey) | [Open project](PowerBI-Projects/Flight%20Detail%20Report%20%26%20Dashboard/README.md) |
+| SQL Data Warehouse & Analytics Project | SQL / Data Engineering | SQL Server, ETL, Data Modeling, Data Warehouse | [Open Project](https://github.com/amanuelgebreegziabhare-warehouse-project2)
+| SQL Project – Exploratory Data Analysis | SQL Analytics | SQL, EDA, Data Exploration | [Open Project](https://github.com/amanuelgebreegziabhare-maker/SQL-Project-Exploratory-Data-Analysis) |
+| SQL Project – Advanced Data Analytics | SQL Analytics | SQL, Data Analysis, Business Intelligence | [Open Project](https://github.com/amanuelgebreegziabhare-maker/SQL-Project-Advanced-Data-Analytics) |
+
 
 ## Project gallery
 
