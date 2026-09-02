@@ -1,4 +1,5 @@
-# Amanuel Gebreegziabhare — Data Analytics & Power BI Developer Portfolio
+# Amanuel Gebreegziabhare
+# Data Analytics & Power BI Developer Portfolio 
 
 [![GitHub](https://img.shields.io/badge/github-portfolio-blue?logo=github)](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare) [![LFS](https://img.shields.io/badge/git--lfs-enabled-brightgreen)](https://git-lfs.github.com)
 
@@ -16,16 +17,6 @@ Data Analyst & Power BI Developer experienced delivering business-focused dashbo
 - [Contributing & notes](#contributing--notes)
 - [Contact](#contact)
 
-## Quick start
-
-To preview the portfolio site locally (requires Node.js):
-
-```bash
-npm install
-npm run dev
-```
-
-Visit the URL shown by Vite to browse project pages.
 
 ## Projects
 
