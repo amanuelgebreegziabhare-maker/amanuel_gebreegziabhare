@@ -278,11 +278,11 @@ This combination allows me to approach analytics projects from both the **techni
 
 ## Microsoft Fabric
 
-* [Ingest Data with Microsoft Fabric]((https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn%20-%20Injust%20Data%20with%20Microsoft%20Fabrics.pdf))
+* [Ingest Data with Microsoft Fabric](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/Certificates/Achievements%20-%20amanuelwtensay-1269%20_%20Microsoft%20Learn%20-%20Injust%20Data%20with%20Microsoft%20Fabrics.pdf)
 
 ## SQL
 
-* [Introduction to SQL — Simplilearn]((https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/Certificates/Introduction-to-SQL-Simplilearn.pdf))
+* [Introduction to SQL — Simplilearn](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/Certificates/Introduction-to-SQL-Simplilearn.pdf)
 
 ---
 
