@@ -84,7 +84,7 @@ A financial analytics project focused on analyzing accounts payable information 
 * Data visualization
 * Business reporting
 
-**[→ View Account Payable Project](PowerBI-Projects/Account-Payable)**
+**[→ View Account Payable Project](PowerBI-Projects/Account Payable Financial Analysis/README.md)**
 
 ---
 
