@@ -84,6 +84,7 @@ A financial analytics project focused on analyzing accounts payable information 
 * Data visualization
 * Business reporting
 
+
 **[→ View Account Payable Project](PowerBI-Projects/Account Payable Financial Analysis/README.md)**
 
 ---
@@ -103,7 +104,7 @@ An HR analytics project focused on employee attrition and workforce-related anal
 * Data visualization
 * Business reporting
 
-**[→ View HR Attrition Project](PowerBI-Projects/HR-Attrition)**
+**[→ View HR Attrition Project](PowerBI-Projects/HR-Attrition-Analysis/README.md)**
 
 ---
 
@@ -124,7 +125,7 @@ An end-to-end SQL data engineering and analytics project demonstrating the devel
 * Data warehousing
 * Analytical SQL
 
-**[→ View SQL Data Warehouse Project](SQL-Projects/SQL-Data-Warehouse)**
+**[→ View SQL Data Warehouse Project](https://github.com/amanuelgebreegziabhare-maker/sql-data-warehouse-project2/tree/main)**
 
 ---
 
