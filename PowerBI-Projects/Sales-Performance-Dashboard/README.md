@@ -4,6 +4,10 @@
 
 This Power BI project showcases a high-impact sales performance dashboard for business stakeholders. It brings together multiple sales datasets to analyze revenue, product performance, regional trends, and forecasted targets.
 
+## Screenshot
+
+![Sales_Performance_Dashboard](Sales%20Perdomance%20Dashboard%20Main%20%20Screenshot.png)
+
 ## Objectives
 
 - Monitor sales performance across regions and products
@@ -46,9 +50,6 @@ This Power BI project showcases a high-impact sales performance dashboard for bu
 - `data/` — Source datasets used for analysis
 - `README.md` — Project overview and documentation
 
-## Screenshot
-
-![Sales_Performance_Dashboard](Sales%20Perdomance%20Dashboard%20Main%20%20Screenshot.png)
 
 ## How to Explore
 
