@@ -89,6 +89,27 @@ A financial analytics project focused on analyzing accounts payable information 
 
 ---
 
+## ⭐ Grocery Inventory Dashboard
+
+**Power BI • SQL**
+
+This Power BI dashboard provides inventory management insights for grocery retail operations. It visualizes stock levels, product availability, and turnover metrics to support inventory planning and supplier performance monitoring.
+
+**Skills demonstrated:**
+
+* Power BI Desktop
+* Power Query for data transformations
+* DAX for inventory calculations and metrics
+* Dashboard design for retail inventory managers
+* Data visualization
+* Business reporting
+
+
+**[→ View Grocery Inventory Dashboard Project](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Grocery%20Inventory%20Dashboard/README.md)**
+
+---
+
+
 ## ⭐ HR Attrition Analysis
 
 **Power BI • SQL**
