@@ -50,25 +50,6 @@ An interactive Power BI sales analytics project focused on understanding busines
 
 ---
 
-## ⭐ Flight Detail Report & Dashboard
-
-**Power BI • Report & Dashboard**
-
-This Power BI solution includes a flight operations dashboard and a finance analysis dashboard. It provides detailed visibility into flight delays, cancellations, transaction activity, and customer financial behavior.
-
-**Skills demonstrated:**
-
-* Customer analytics
-* RFM analysis
-* Data segmentation
-* Power BI
-* Business intelligence
-* Data visualization
-
-**[→ View C Flight Detail Report & Dashboard Project](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Flight%20Detail%20Report%20%26%20Dashboard/README.md)**
-
----
-
 ## ⭐ Account Payable Financial Analysis
 
 **Power BI • DAX • Financial Analytics**
@@ -86,26 +67,6 @@ A financial analytics project focused on analyzing accounts payable information 
 
 
 **[→ View Account Payable Project](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Account%20Payable%20Financial%20Analysis/README.md)**
-
----
-
-## ⭐ Grocery Inventory Dashboard
-
-**Power BI • SQL**
-
-This Power BI dashboard provides inventory management insights for grocery retail operations. It visualizes stock levels, product availability, and turnover metrics to support inventory planning and supplier performance monitoring.
-
-**Skills demonstrated:**
-
-* Power BI Desktop
-* Power Query for data transformations
-* DAX for inventory calculations and metrics
-* Dashboard design for retail inventory managers
-* Data visualization
-* Business reporting
-
-
-**[→ View Grocery Inventory Dashboard Project](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Grocery%20Inventory%20Dashboard/README.md)**
 
 ---
 
