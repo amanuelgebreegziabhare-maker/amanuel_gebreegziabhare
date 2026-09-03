@@ -31,6 +31,64 @@ I am particularly interested in opportunities where I can use data to support **
 
 The projects below demonstrate practical application of analytics, business intelligence, SQL, Power BI, and data engineering skills.
 
+---
+# 🛠️ SQL & Data Engineering Projects
+
+## SQL Data Warehouse & Analytics Project
+
+**SQL Server • ETL • Data Modeling • Data Warehouse**
+
+An end-to-end SQL data engineering and analytics project demonstrating the development and use of a data warehouse environment.
+
+**Skills demonstrated:**
+
+* SQL Server
+* ETL
+* Data transformation
+* Data modeling
+* Data warehousing
+* Analytical SQL
+
+**[→ View SQL Data Warehouse Project](https://github.com/amanuelgebreegziabhare-maker/sql-data-warehouse-project2/tree/main)**
+
+---
+
+## SQL — Exploratory Data Analysis
+
+**SQL • EDA • Data Exploration**
+
+A SQL analytics project focused on exploring and understanding structured data through analytical queries.
+
+**Skills demonstrated:**
+
+* SQL
+* Exploratory Data Analysis
+* Data exploration
+* Aggregations
+* Filtering and analysis
+
+**[→ View SQL EDA Project](https://github.com/amanuelgebreegziabhare-maker/SQL-Project-Exploratory-Data-Analysis/blob/main/README.md)**
+
+---
+
+## SQL — Advanced Data Analytics
+
+**SQL • Data Analysis • Business Intelligence**
+
+An advanced SQL project demonstrating analytical techniques used to extract business insights from data.
+
+**Skills demonstrated:**
+
+* Advanced SQL
+* Data analysis
+* Business intelligence
+* Analytical queries
+* Data-driven insights
+
+**[→ View Advanced SQL Project](https://github.com/amanuelgebreegziabhare-maker/SQL-Project-Advanced-Data-Analytics)**
+
+---
+
 ## ⭐ Sales Performance Analytics
 
 **Power BI • DAX • Data Modeling**
@@ -108,62 +166,7 @@ Customer segmentation project using **Recency, Frequency, and Monetary (RFM)** a
 **[→ View Customer Segmentation Project](PowerBI-Projects/Customer-Segmentation-RFM/README.md)**
 
 ---
-# 🛠️ SQL & Data Engineering Projects
 
-## SQL Data Warehouse & Analytics Project
-
-**SQL Server • ETL • Data Modeling • Data Warehouse**
-
-An end-to-end SQL data engineering and analytics project demonstrating the development and use of a data warehouse environment.
-
-**Skills demonstrated:**
-
-* SQL Server
-* ETL
-* Data transformation
-* Data modeling
-* Data warehousing
-* Analytical SQL
-
-**[→ View SQL Data Warehouse Project](https://github.com/amanuelgebreegziabhare-maker/sql-data-warehouse-project2/tree/main)**
-
----
-
-## SQL — Exploratory Data Analysis
-
-**SQL • EDA • Data Exploration**
-
-A SQL analytics project focused on exploring and understanding structured data through analytical queries.
-
-**Skills demonstrated:**
-
-* SQL
-* Exploratory Data Analysis
-* Data exploration
-* Aggregations
-* Filtering and analysis
-
-**[→ View SQL EDA Project](https://github.com/amanuelgebreegziabhare-maker/SQL-Project-Exploratory-Data-Analysis/blob/main/README.md)**
-
----
-
-## SQL — Advanced Data Analytics
-
-**SQL • Data Analysis • Business Intelligence**
-
-An advanced SQL project demonstrating analytical techniques used to extract business insights from data.
-
-**Skills demonstrated:**
-
-* Advanced SQL
-* Data analysis
-* Business intelligence
-* Analytical queries
-* Data-driven insights
-
-**[→ View Advanced SQL Project](https://github.com/amanuelgebreegziabhare-maker/SQL-Project-Advanced-Data-Analytics)**
-
----
 
 # 📊 Additional Power BI Projects
 
