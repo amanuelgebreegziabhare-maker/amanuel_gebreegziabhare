@@ -145,7 +145,7 @@ An HR analytics project focused on employee attrition and workforce-related anal
 * Data visualization
 * Business reporting
 
-**[→ View HR Attrition Project](PowerBI-Projects/HR-Attrition-Analysis/README.md)**
+**[→ View HR Attrition Project](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/HR-Attrition-Analysis/READ_ME.md)**
 
 ---
 
