@@ -88,6 +88,7 @@ An advanced SQL project demonstrating analytical techniques used to extract busi
 **[→ View Advanced SQL Project](https://github.com/amanuelgebreegziabhare-maker/SQL-Project-Advanced-Data-Analytics)**
 
 ---
+# 📊 Power BI Projects
 
 ## ⭐ Sales Performance Analytics
 
