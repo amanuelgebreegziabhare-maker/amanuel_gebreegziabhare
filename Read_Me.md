@@ -50,11 +50,11 @@ An interactive Power BI sales analytics project focused on understanding busines
 
 ---
 
-## ⭐ Customer Segmentation — RFM Analysis
+## ⭐ Flight Detail Report & Dashboard
 
-**Power BI • RFM Analysis**
+**Power BI • Report & Dashboard**
 
-Customer segmentation project using **Recency, Frequency, and Monetary (RFM)** analysis to understand customer purchasing behavior and identify customer groups.
+This Power BI solution includes a flight operations dashboard and a finance analysis dashboard. It provides detailed visibility into flight delays, cancellations, transaction activity, and customer financial behavior.
 
 **Skills demonstrated:**
 
@@ -65,7 +65,7 @@ Customer segmentation project using **Recency, Frequency, and Monetary (RFM)** a
 * Business intelligence
 * Data visualization
 
-**[→ View Customer Segmentation Project](PowerBI-Projects/Customer-Segmentation-RFM/README.md)**
+**[→ View C Flight Detail Report & Dashboard Project](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Flight%20Detail%20Report%20%26%20Dashboard/README.md)**
 
 ---
 
@@ -108,6 +108,24 @@ An HR analytics project focused on employee attrition and workforce-related anal
 
 ---
 
+## ⭐ Customer Segmentation — RFM Analysis
+
+**Power BI • RFM Analysis**
+
+Customer segmentation project using **Recency, Frequency, and Monetary (RFM)** analysis to understand customer purchasing behavior and identify customer groups.
+
+**Skills demonstrated:**
+
+* Customer analytics
+* RFM analysis
+* Data segmentation
+* Power BI
+* Business intelligence
+* Data visualization
+
+**[→ View Customer Segmentation Project](PowerBI-Projects/Customer-Segmentation-RFM/README.md)**
+
+---
 # 🛠️ SQL & Data Engineering Projects
 
 ## SQL Data Warehouse & Analytics Project
