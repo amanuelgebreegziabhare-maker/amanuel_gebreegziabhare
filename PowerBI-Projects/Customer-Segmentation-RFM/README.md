@@ -1,59 +1,137 @@
-# Customer Segmentation (RFM)
+# Customer Segmentation Analysis
 
 ## Project Overview
 
-This Power BI project demonstrates customer segmentation using RFM (Recency, Frequency, Monetary) analysis. It helps marketing and sales teams target the most valuable customer groups and design personalized engagement strategies.
+This Power BI project delivers a Customer Segmentation dashboard designed to help businesses understand customer characteristics, segment customers based on RFM analysis, and review customer-level sales performance. The report combines AdventureWorks sales, customer, geography, product, territory, and date data with an RFM segmentation table to provide a structured view of customer behavior.
+## 
+
+![Customer Segmentation Analysis](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Customer-Segmentation-RFM/Customer%20Segmentation%20Analysis%20-%20Dashboard%20Screenshot01.png)
 
 ## Objectives
 
-- Segment customers by purchasing behavior
-- Identify loyal, at-risk, and high-value customer groups
-- Support targeted campaigns with actionable segments
-- Visualize customer lifetime value and retention patterns
+- Analyze customer demographics and sales contribution
+- Segment customers using Recency, Frequency, and Monetary (RFM) analysis
+- Compare sales and customer activity across customer segments
+- Identify customers who are loyal, promising, at risk, or showing signs of disengagement
+- Provide customer-level details including sales, country, gender, and segment
+- Support targeted customer retention, engagement, and marketing decisions
 
 ## Tools & Techniques
 
 - Power BI Desktop
-- Power Query for dataset preparation and RFM calculation
-- DAX for customer scoring and segment definitions
-- Interactive visuals for customer analytics
-
-## Key Features
-
-- RFM scoring matrix and segment breakdown
-- Customer value distribution and tier analysis
-- Purchase recency and frequency trends
-- Target segment profiles and recommendations
-
-## Data Sources
-
-- Customer transaction history
-- Order and purchase records
-- Customer profile data
-
-## Insights Delivered
-
-- Most valuable customer segments by revenue and activity
-- Customer behavior patterns by recency and frequency
-- Opportunities to re-engage lapsing customers
-- Recommendations for marketing and retention efforts
+- Power Query for data import and transformation
+- DAX for measures and analytics
+- RFM analysis for customer segmentation
+- Dashboard design and interactive filtering
 
 ## Files Included
 
-- `Customer-Segmentation-RFM.pbix` — Power BI report file
-- `data/` — Transaction and customer datasets
-- `README.md` — Project documentation
+- `AdventureWorksDW.XLSX` — source AdventureWorks data containing fact sales and customer, product, date, geography, and sales territory tables
+- `RFM Table.xlsx` — RFM segment definitions, score combinations, segment ordering, descriptions, and recommended marketing actions
+- `Customer Segmentation Analysis - Dashboard Screenshot01.png` — Customer Demographics dashboard preview
+- `Customer Segmentation Analysis - Dashboard Screenshot02.png` — Customer Segmentation (RFM Analysis) dashboard preview
+- `Customer Segmentation Analysis - Dashboard Screenshot03.png` — Customer Details dashboard preview
 
-## Screenshot
+## Dashboard Pages
 
-_No screenshot found in this folder._
+### 1. Customer Demographics
 
-To add a screenshot that appears here, place an image named `Customer Segmentation - Screenshot.png` in this folder and I'll embed it in the README.
+The Customer Demographics page provides a high-level view of the customer base and sales distribution.
+
+Key visuals include:
+
+- Total Sales
+- Number of Customers
+- Total Sales by Country
+- Total Sales by Gender
+- Total Sales by Marital Status
+- Total Sales by Age Band
+- Product Name filter for interactive analysis
+
+The dashboard displays approximately **$29M in total sales** and **18.5K customers**, with sales distributed across countries, gender, marital status, and age bands.
+
+### 2. Customer Segmentation (RFM Analysis)
+
+The Customer Segmentation page applies RFM-based customer grouping to compare customer activity and sales across segments.
+
+The RFM table contains the following customer segments:
+
+- Champions
+- Loyal
+- Potential Loyalist
+- Promising
+- New Customers
+- About To Sleep
+- Hibernating Customers
+- Need Attention
+- At Risk
+- Cannot Lose Them
+- Lost Customers
+
+The segment definitions and recommended marketing actions in the RFM table are intended to support targeted customer engagement. For example, Champions are treated as highly loyal and valuable customers, while At Risk, Cannot Lose Them, and Lost Customers require retention or win-back strategies.
+
+Key visuals include:
+
+- Number of Customers by Segment
+- Total Sales by Segment
+- Recency Value by Segment
+- Segment-level RFM analysis
+
+The dashboard can be used to identify high-value segments, understand customer engagement patterns, and prioritize retention activities.
+
+### 3. Customer Details
+
+The Customer Details page provides a customer-level view that connects individual customers with their sales and RFM segment.
+
+Displayed fields include:
+
+- Customer Key
+- First Name
+- Last Name
+- Email Address
+- Sales Territory Country
+- Phone
+- Gender
+- Sales Amount
+- Segment
+
+This page allows users to move from high-level segmentation insights to individual customer records for more detailed analysis.
+
+## Key Metrics & Insights
+
+The dashboard focuses on:
+
+- Total Sales
+- Number of Customers
+- Sales by Country
+- Sales by Gender
+- Sales by Marital Status
+- Sales by Age Band
+- Customer activity by segment
+- Total Sales by Segment
+- Recency by Segment
+- Individual customer sales and segment classification
+
+## RFM Segmentation Framework
+
+The RFM table maps RFM score combinations to customer segments and provides a recommended marketing action for each segment.
+
+Examples include:
+
+- **Champions** — Reward with loyalty programs, exclusive previews, or priority access
+- **Loyal** — Maintain engagement through personalized communication and loyalty programs
+- **Potential Loyalist** — Nurture with personalized offers and incentives
+- **New Customers** — Use onboarding, welcome communication, and repeat-purchase incentives
+- **At Risk** — Encourage retention with loyalty rewards or exclusive promotions
+- **Cannot Lose Them** — Use VIP treatment and personalized outreach
+- **Lost Customers** — Use win-back campaigns or feedback initiatives
 
 ## How to Explore
 
-Open the Power BI file in Power BI Desktop to view the segmentation dashboards, interact with customer groups, and review the RFM scorecards. Use the visuals to identify segment-specific actions.
+Open the Power BI report in Power BI Desktop to review the dashboard pages, interactive filters, segment analysis, and customer-level details.
+
+Start with **Customer Demographics** for an overall view of the customer base, move to **Customer Segmentation** to evaluate RFM segments, and use **Customer Details** to examine individual customers.
 
 ## Contact
 
-For questions about this project or customer analytics, contact me at **amanuelgebreegziabhare@gmail.com**.
+For questions about this project, contact me at amanuelgebreegziabhare@gmail.com.
