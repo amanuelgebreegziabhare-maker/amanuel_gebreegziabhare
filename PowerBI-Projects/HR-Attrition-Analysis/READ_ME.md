@@ -13,6 +13,16 @@ experience to support data-driven workforce and employee retention decisions.
 
 ![HR Analytics Dashboard](./HR%20Analytics%20Dashboard%20Screenshot%20-%20big.png)
 
+### Access the Project
+
+- 🌐 [View Interactive Power BI Dashboard](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/HR-Attrition-Analysis/HR%20Analytics%20Dashboard%20in%20Power%20BI.pbix)
+- 📥 [Download Power BI Report (.pbix)](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/HR-Attrition-Analysis/HR%20Analytics%20Dashboard%20in%20Power%20BI.pbix)
+
+> **Note:** The interactive dashboard is available through Power BI Service.
+> The `.pbix` file is also provided for download so that the report structure,
+> data model, and DAX calculations can be reviewed in Power BI Desktop.
+
+
 ## Objectives
 
 - Monitor total and active employees across the organization
