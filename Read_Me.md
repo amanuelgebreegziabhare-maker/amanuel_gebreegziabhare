@@ -164,7 +164,7 @@ Customer segmentation project using **Recency, Frequency, and Monetary (RFM)** a
 * Business intelligence
 * Data visualization
 
-**[→ View Customer Segmentation Project](PowerBI-Projects/Customer-Segmentation-RFM/README.md)**
+**[→ View Customer Segmentation Project](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Customer-Segmentation-RFM/README.md)**
 
 ---
 
