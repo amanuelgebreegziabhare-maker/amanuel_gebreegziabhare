@@ -36,7 +36,7 @@ This Power BI project delivers a Customer Segmentation dashboard designed to hel
 
 ### 1. Customer Demographics
 
-The Customer Demographics page provides a high-level view of the customer base and sales distribution.
+The Customer Demographics page, whose screenshot shown above, provides a high-level view of the customer base and sales distribution.
 
 Key visuals include:
 
@@ -51,6 +51,8 @@ Key visuals include:
 The dashboard displays approximately **$29M in total sales** and **18.5K customers**, with sales distributed across countries, gender, marital status, and age bands.
 
 ### 2. Customer Segmentation (RFM Analysis)
+
+![Customer Segmentation (RFM Analysis)](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Customer-Segmentation-RFM/Customer%20Segmentation%20Analysis%20-%20Dashboard%20Screenshot02.png)
 
 The Customer Segmentation page applies RFM-based customer grouping to compare customer activity and sales across segments.
 
@@ -80,6 +82,8 @@ Key visuals include:
 The dashboard can be used to identify high-value segments, understand customer engagement patterns, and prioritize retention activities.
 
 ### 3. Customer Details
+
+![Customer Details](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Customer-Segmentation-RFM/Customer%20Segmentation%20Analysis%20-%20Dashboard%20Screenshot03.png)
 
 The Customer Details page provides a customer-level view that connects individual customers with their sales and RFM segment.
 
