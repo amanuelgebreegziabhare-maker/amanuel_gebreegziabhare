@@ -37,7 +37,7 @@ This Power BI project delivers a Customer Segmentation dashboard designed to hel
 ### Access the Project
 
 - 🌐 [View Interactive Power BI Dashboard](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Customer-Segmentation-RFM/Customer%20Segmentation%20Analysis%20in%20Power%20BI.pbix)
-- 📥 [Download Power BI Report (.pbix)](./Customer-Segmentation-Analysis.pbix)
+- 📥 [Download Power BI Report (.pbix)](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Customer-Segmentation-RFM/Customer%20Segmentation%20Analysis%20in%20Power%20BI.pbix)
 
 > **Note:** The interactive dashboard is available through Power BI Service.
 > The `.pbix` file is also provided for download so that the report structure,
