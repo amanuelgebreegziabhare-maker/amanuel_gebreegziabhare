@@ -26,6 +26,7 @@ This Power BI project delivers a Customer Segmentation dashboard designed to hel
 
 ## Files Included
 
+- `HR Analytics Dashboard in Power BI.pbix` — interactive dashboard is available through Power BI Service
 - `AdventureWorksDW.XLSX` — source AdventureWorks data containing fact sales and customer, product, date, geography, and sales territory tables
 - `RFM Table.xlsx` — RFM segment definitions, score combinations, segment ordering, descriptions, and recommended marketing actions
 - `Customer Segmentation Analysis - Dashboard Screenshot01.png` — Customer Demographics dashboard preview
