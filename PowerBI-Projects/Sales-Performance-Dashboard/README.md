@@ -14,6 +14,8 @@ This Power BI project delivers a comprehensive Finance Analysis dashboard design
 
 ### Overview Analysis Dashboard
 
+### Transaction Detail Dashboard
+
 ### Access the Project
 
 - 🌐 [View Interactive Power BI Dashboard](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Financial%20Analysis%20Complete%20Dashboard/Power%20BI%20Project%20%20-%20Finance%20Analysis%20Complete%20Dashboard.pbix)
@@ -24,9 +26,6 @@ This Power BI project delivers a comprehensive Finance Analysis dashboard design
 > data model, and DAX calculations can be reviewed in Power BI Desktop.
 ,
 
-### Transaction Detail Dashboard
-
-Financial%20Analysis%20Dashboard%20Detail%20Drillthrough%20Screenshot.png
 
 ---
 
