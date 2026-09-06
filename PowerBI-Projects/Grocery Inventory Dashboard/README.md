@@ -3,9 +3,20 @@
 ## Project Overview
 
 This Power BI dashboard provides inventory management insights for grocery retail operations. It visualizes stock levels, product availability, and turnover metrics to support inventory planning and supplier performance monitoring.
-## Screenshot
 
-![Grocery Inventory Dashboard](Grocery%20Inventory%20Dashboard%20Screenshot.png)
+## 
+![Grocery Inventory Dashboard](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Grocery%20Inventory%20Dashboard/Grocery%20Inventory%20Dashboard%20Screenshot.png)
+
+### Access the Project
+
+- 🌐 [View Interactive Power BI Dashboard](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Grocery%20Inventory%20Dashboard/Inventory%20Dashboard.pbix)
+
+
+> **Note:** The interactive dashboard is available through Power BI Service.
+> The `.pbix` file is also provided for download so that the report structure,
+> data model, and DAX calculations can be reviewed in Power BI Desktop.
+,
+
 
 ## Objectives
 
