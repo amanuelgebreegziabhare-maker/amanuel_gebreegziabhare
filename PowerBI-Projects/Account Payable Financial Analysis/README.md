@@ -9,6 +9,15 @@ This Power BI project delivers an Accounts Payable dashboard designed to help fi
 
 ![Accounts Payable Dashboard](Accounts%20Payable%20Dashboard%20-%20Screenshot.png)
 
+### Access the Project
+
+- 🌐 [View Interactive Power BI Dashboard](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Customer-Segmentation-RFM/Customer%20Segmentation%20Analysis%20in%20Power%20BI.pbix)
+- 📥 [Download Power BI Report (.pbix)](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Customer-Segmentation-RFM/Customer%20Segmentation%20Analysis%20in%20Power%20BI.pbix)
+
+> **Note:** The interactive dashboard is available through Power BI Service.
+> The `.pbix` file is also provided for download so that the report structure,
+> data model, and DAX calculations can be reviewed in Power BI Desktop.
+,
 
 ## Objectives
 
