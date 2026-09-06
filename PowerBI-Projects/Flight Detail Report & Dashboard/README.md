@@ -5,10 +5,8 @@
 This Power BI solution includes a flight operations dashboard and a finance analysis dashboard. It provides detailed visibility into flight delays, cancellations, transaction activity, and customer financial behavior.
 
 ## 
-
-![Flight Detail Dashboard](Flight%20Detail%20Dashboard%20-%20Screenshot.png)
-
 ![Flight Detail Report](Flight%20Detail%20Report%20-%20Screenshot.png)
+
 
 
 ## Objectives
@@ -34,12 +32,23 @@ This Power BI solution includes a flight operations dashboard and a finance anal
 
 
 ### Finance Analysis Complete Dashboard
+
+
+![Flight Detail Dashboard](Flight%20Detail%20Dashboard%20-%20Screenshot.png)
+
+### Access the Project
+
+- 🌐 [View Interactive Power BI Dashboard](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Flight%20Detail%20Report%20%26%20Dashboard/Fight%20Detail%20Report%20%26%20Dashboard.pbix)
+- 📥 [Download Power BI Report (.pbix)](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Flight%20Detail%20Report%20%26%20Dashboard/Fight%20Detail%20Report%20%26%20Dashboard.pbix)
+
+> **Note:** The interactive dashboard is available through Power BI Service.
+> The `.pbix` file is also provided for download so that the report structure,
+> data model, and DAX calculations can be reviewed in Power BI Desktop.
+,
 - `Financial Analysis Complete Dashboard/Power BI Project  - Finance Analysis Complete Dashboard.pbix`
 - `customers.csv`
-- `customers2.csv`
-- `finance_transactions.csv`
 - `finance_transactions.xlsx`
-- `Ttransaction Date.xlsx`
+- `transaction Date.xlsx`
 - `Business Requirements.docx`
 - Screenshot files for finance dashboard pages
 
