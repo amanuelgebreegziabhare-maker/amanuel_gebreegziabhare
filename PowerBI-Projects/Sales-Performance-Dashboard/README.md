@@ -12,7 +12,6 @@ This Power BI project delivers a comprehensive Finance Analysis dashboard design
 ![Finance Analysis Project](https://github.com/amanuelgebreegziabhare-maker/amanuel_gebreegziabhare/blob/main/PowerBI-Projects/Financial%20Analysis%20Complete%20Dashboard/Financial%20Analysis%20Dashboard%20Overall%20View%20Screenshot.png)
 
 
-### Overview Analysis Dashboard
 
 ### Transaction Detail Dashboard
 
